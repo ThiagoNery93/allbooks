@@ -1,4 +1,5 @@
 # AllBooks
+Boas vindas API do Albooks
 
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
@@ -26,11 +27,11 @@ Com os seguintes dados:
 
 ```
 {
-    "nome": "vinicios neves",
-    "email": "vinicios@alura.com.br",
+    "nome": "Thiago Nery",
+    "email": "nerypqd@gmail.com",
     "senha": "123456",
-    "endereco": "Rua Vergueiro, 3185",
-    "complemento": "Vila Mariana",
+    "endereco": "Rua Capitao, 3185",
+    "complemento": "Vila Militar",
     "cep": "04101-300"
 }
 ```
@@ -50,7 +51,7 @@ Com os seguintes dados:
 
 ```
 {
-  "email": "vinicios@alura.com.br",
+  "email": "nerypqd@gmail.com",
   "senha":"123456"
 }
 ```
